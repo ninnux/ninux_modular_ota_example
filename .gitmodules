@@ -1,0 +1,9 @@
+[submodule "https:/github.com/ninnux/ninux_esp32_https.git"]
+	path = https:/github.com/ninnux/ninux_esp32_https.git
+	url = ./components/ninux_esp32_https
+[submodule "https:/github.com/ninnux/ninux_esp32_ota.git"]
+	path = https:/github.com/ninnux/ninux_esp32_ota.git
+	url = ./components/ninux_esp32_ota
+[submodule "https:/github.com/ninnux/esp32_web_basic_auth.git"]
+	path = https:/github.com/ninnux/esp32_web_basic_auth.git
+	url = ./components/esp32_web_basic_auth/
